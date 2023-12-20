@@ -1,7 +1,3 @@
-Certainly! Below is a README.md summary for your chatbot project. You can use this as a starting point and modify it as needed:
-
----
-
 # Chatbot Project
 
 ## Overview
